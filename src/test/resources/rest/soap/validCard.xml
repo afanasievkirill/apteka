@@ -1,0 +1,17 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wms="http://eapteka.ru/WMS">
+    <soap:Header/>
+    <soap:Body>
+        <wms:DataExchange>
+            <wms:NodeCode>A1</wms:NodeCode>
+            <wms:Event>ПолучитьНоменклатуруПоСписку</wms:Event>
+            <wms:JSONData>[
+                {
+                "GUID": "a7f3e2e2-e73f-11e8-9860-9822efbdbe9e"
+                },
+                {
+                "GUID": "5efe4697-e67b-11e8-9860-9822efbdbe9e"
+                }
+                ]</wms:JSONData>
+        </wms:DataExchange>
+    </soap:Body>
+</soap:Envelope>

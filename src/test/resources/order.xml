@@ -1,0 +1,58 @@
+<orders_request>
+    <orders>
+        <order>
+            <code>4837973</code>
+            <date_time>2019-07-11 22:22:22</date_time>
+            <status_id>N</status_id>
+            <status_date_time></status_date_time>
+            <price>1300.00</price>
+            <city>RU-105082</city>
+            <comment>Тест</comment>
+            <customer>
+                <type>PRIVATE</type>
+                <name>Ильин Александр Геннадьевич</name>
+                <phone>+79859113678</phone>
+            </customer>
+            <deliveries>
+                <delivery>
+                    <type>COURIER</type>
+                    <date_time>2019-12-28 22:22:22</date_time>
+                    <coordinates>
+                        <lon>55.773499</lon>
+                        <lat>37.679043</lat>
+                    </coordinates>
+                    <address>Москва, ул. Планерная, 12к1, кв. 10</address>
+                    <city>Москва</city>
+                    <street>ул. Планерная</street>
+                    <house>12</house>
+                    <apartment>103</apartment>
+                    <floor>3</floor>
+                    <building>1</building>
+                    <entrance>1</entrance>
+                    <keycode>110#9999</keycode>
+                    <fias>...</fias>
+                    <courier_phone>+79999999999</courier_phone>
+                </delivery>
+            </deliveries>
+            <payments>
+                <payment>
+                    <type>CASH</type>
+                    <amount>1300.00</amount>
+                    <date_time>2019-02-11 22:22:22</date_time>
+                    <transaction_id>12312312312312</transaction_id>
+                </payment>
+            </payments>
+            <products>
+                <product>
+                    <code>000000003</code>
+                    <name>Оригинальный</name>
+                    <quantity>4</quantity>
+                    <price>325.00</price>
+                    <expiration_date>2029-11-01</expiration_date>
+                    <promo>
+                    </promo>
+                </product>
+            </products>
+        </order>
+    </orders>
+</orders_request>

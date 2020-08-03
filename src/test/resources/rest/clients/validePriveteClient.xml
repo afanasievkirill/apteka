@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request xmlns="http://www.eapteka.ru/clients">
+
+    <clients>
+        <client>
+            <name>str1234</name>
+            <isCompany>true</isCompany>
+            <registrationDate>0001-01-01</registrationDate>
+            <phones>
+                <phone>
+                    <phoneNumber>+79511455165</phoneNumber>
+                </phone>
+            </phones>
+            <addresses>
+                <address>
+                    <regionName></regionName>
+                    <district></district>
+                    <cityName>Москва</cityName>
+                    <metroStationName></metroStationName>
+                    <street>Мира</street>
+                    <house>28</house>
+                    <building>1</building>
+                    <entrance>5</entrance>
+                    <entranceCode>123456</entranceCode>
+                    <doorPhone>654321</doorPhone>
+                    <floor>7</floor>
+                    <flat>67</flat>
+                    <comments></comments>
+                    <addressView>Москва, Мира 28</addressView>
+                    <addressDate>2012-12-13T12:12:12</addressDate>
+                    <fieldValues></fieldValues>
+                    <coordinates>
+                        <lon>3.14159</lon>
+                        <lat>3.14159</lat>
+                    </coordinates>
+                    <fias>str1234</fias>
+                </address>
+            </addresses>
+            <emails>
+                <email>
+                    <email>aaaa@a.ru</email>
+                </email>
+            </emails>
+            <comments></comments>
+            <clientpropertiess></clientpropertiess>
+            <birthDate>0001-01-01</birthDate>
+        </client>
+    </clients>
+</request>

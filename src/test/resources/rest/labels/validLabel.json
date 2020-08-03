@@ -1,0 +1,16 @@
+[
+  {
+    "GUID": "",
+    "id_77": "",
+    "cod": "",
+    "codFull": "2608007289213",
+    "verifyPath": "rest/labels/wmsValidcodFull.json"
+  },
+  {
+    "GUID": "e3a8caef-da10-11e9-b7fc-0cc47aabb8ac",
+    "id_77": "",
+    "cod": "",
+    "codFull": "",
+    "verifyPath": "rest/labels/wmsValidGuid.json"
+  }
+]

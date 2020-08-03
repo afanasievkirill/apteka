@@ -1,0 +1,6 @@
+211  [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test wmsPostByFile with parameters []
+1508 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test wmsPostByFile
+1548 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test wmsPostWithData with parameters [LabelData{GUID='', id_77='', cod='', codFull='2608007289213', verifyPath='rest/labels/wmsValidcodFull.json'}]
+2440 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test wmsPostWithData
+2441 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test wmsPostWithData with parameters [LabelData{GUID='e3a8caef-da10-11e9-b7fc-0cc47aabb8ac', id_77='', cod='', codFull='', verifyPath='rest/labels/wmsValidGuid.json'}]
+2509 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test wmsPostWithData

@@ -1,0 +1,151 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "required": [
+      "id_77",
+      "ТипДокумента",
+      "GUID",
+      "НомерДокумента",
+      "Пакеты"
+    ],
+    "properties": {
+      "id_77": {
+        "$id": "#/items/properties/id_77",
+        "type": "string",
+        "title": "The Id_77 Schema",
+        "default": "",
+        "examples": [
+          "         "
+        ],
+        "pattern": "^(.*)$"
+      },
+      "ТипДокумента": {
+        "$id": "#/items/properties/ТипДокумента",
+        "type": "string",
+        "title": "The Типдокумента Schema",
+        "default": "",
+        "examples": [
+          "Заказ"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "GUID": {
+        "$id": "#/items/properties/GUID",
+        "type": "string",
+        "title": "The Guid Schema",
+        "default": "",
+        "examples": [
+          "e3a8caef-da10-11e9-b7fc-0cc47aabb8ac"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "НомерДокумента": {
+        "$id": "#/items/properties/НомерДокумента",
+        "type": "string",
+        "title": "The Номердокумента Schema",
+        "default": "",
+        "examples": [
+          "80000058"
+        ],
+        "pattern": "^(.*)$"
+      },
+      "Пакеты": {
+        "$id": "#/items/properties/Пакеты",
+        "type": "array",
+        "title": "The Пакеты Schema",
+        "items": {
+          "$id": "#/items/properties/Пакеты/items",
+          "type": "object",
+          "title": "The Items Schema",
+          "required": [
+            "Код",
+            "Наименование",
+            "ДокументИзСостава",
+            "GUID",
+            "id_77",
+            "ТипДокумента",
+            "НомерДокумента"
+          ],
+          "properties": {
+            "Код": {
+              "$id": "#/items/properties/Пакеты/items/properties/Код",
+              "type": "integer",
+              "title": "The Код Schema",
+              "default": 0,
+              "examples": [
+                315690
+              ]
+            },
+            "Наименование": {
+              "$id": "#/items/properties/Пакеты/items/properties/Наименование",
+              "type": "string",
+              "title": "The Наименование Schema",
+              "default": "",
+              "examples": [
+                "2608003156908"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "ДокументИзСостава": {
+              "$id": "#/items/properties/Пакеты/items/properties/ДокументИзСостава",
+              "type": "string",
+              "title": "The Документизсостава Schema",
+              "default": "",
+              "examples": [
+                "Заказ 80000058 от 18.09.2019 15:36:08"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "GUID": {
+              "$id": "#/items/properties/Пакеты/items/properties/GUID",
+              "type": "string",
+              "title": "The Guid Schema",
+              "default": "",
+              "examples": [
+                "e3a8caef-da10-11e9-b7fc-0cc47aabb8ac"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "id_77": {
+              "$id": "#/items/properties/Пакеты/items/properties/id_77",
+              "type": "string",
+              "title": "The Id_77 Schema",
+              "default": "",
+              "examples": [
+                "         "
+              ],
+              "pattern": "^(.*)$"
+            },
+            "ТипДокумента": {
+              "$id": "#/items/properties/Пакеты/items/properties/ТипДокумента",
+              "type": "string",
+              "title": "The Типдокумента Schema",
+              "default": "",
+              "examples": [
+                "Заказ"
+              ],
+              "pattern": "^(.*)$"
+            },
+            "НомерДокумента": {
+              "$id": "#/items/properties/Пакеты/items/properties/НомерДокумента",
+              "type": "string",
+              "title": "The Номердокумента Schema",
+              "default": "",
+              "examples": [
+                "80000058"
+              ],
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      }
+    }
+  }
+}

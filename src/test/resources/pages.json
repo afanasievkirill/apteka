@@ -1,0 +1,6 @@
+[
+  {
+    "validValue": "Скидки и акции в аптеке",
+    "Path": "By.className(\"promo--all\")"
+  }
+]

@@ -1,0 +1,18 @@
+231  [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Seleznevskaya', ip='10.0.18.3/apteka18'}]
+1491 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+1492 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 10 Новочеркасский', ip='10.0.10.3/apteka'}]
+1580 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+1580 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 20 пушкино ', ip='10.0.20.3/apteka20'}]
+22594 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+22595 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Seleznevskaya', ip='10.0.18.3/apteka18'}]
+22676 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+22676 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Seleznevskaya', ip='10.0.18.3/apteka18'}]
+22734 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+22735 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Seleznevskaya', ip='10.0.18.3/apteka18'}]
+22785 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+22786 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Seleznevskaya', ip='10.0.18.3/apteka18'}]
+22832 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+22832 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Seleznevskaya', ip='10.0.18.3/apteka18'}]
+22883 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+22884 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [null]
+22885 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData

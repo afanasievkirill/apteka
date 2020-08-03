@@ -1,0 +1,2 @@
+538  [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test invalidCustomerTestWithData with parameters [CustomerData{name='Ильин Александр Геннадьевич', phone='+79859113678', lon='55.773499', lat='37.679043', adress='Москва, ул. Планерная, 12к1, кв. 10', city='Москва', street='ул. Планерная', house='12', appartment='103', floor='3', building='1', entrance='1', keycode='110#9999'}]
+1235 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test invalidCustomerTestWithData

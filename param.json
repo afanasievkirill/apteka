@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/silverbulleters/vanessa-runner/develop/vanessa-runner-schema.json",
+  "default": {
+    "--ibconnection":"/Ss11dev/wms_autotest",
+    "--db-user":"администратор",
+    "--db-pwd":"",
+    "--v8version":"8.3.15.1778"
+  },
+  "syntax-check": {
+    "--groupbymetadata":true,
+    "--exception-file":"",
+    "--mode": [
+      "-ExtendedModulesCheck",
+      "-ThinClient",
+      "-Server",
+      "-ExternalConnection",
+      "-ThickClientOrdinaryApplication"
+    ]
+  }
+
+
+}

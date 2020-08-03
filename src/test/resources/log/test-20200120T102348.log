@@ -1,0 +1,110 @@
+320  [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Seleznevskaya', ip='10.0.18.3/apteka18'}]
+2011 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+2012 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 10 Новочеркасский', ip='10.0.10.3/apteka'}]
+2122 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+2123 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 21 фрязино ', ip='10.0.21.3/apteka21'}]
+2196 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+2197 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 24 МО Химки ', ip='10.0.24.3/apteka'}]
+2267 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+2267 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 25 МО Ногинск', ip='10.0.25.3/apteka'}]
+2344 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+2345 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 29 МО Клин', ip='10.0.29.3/apteka'}]
+23365 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+23366 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 35 Островитянова', ip='10.0.35.41/apteka'}]
+23404 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+23405 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 34 Южная 2', ip='10.0.34.41/apteka'}]
+23617 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+23618 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 37 Щепкина', ip='10.0.37.41/apteka'}]
+23686 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+23686 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 38 Туристская', ip='10.0.38.41/apteka'}]
+23755 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+23755 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 39 Маршала Неделина', ip='10.0.39.41/apteka'}]
+23815 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+23816 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 40 лет Октября', ip='10.0.59.41/apteka'}]
+23877 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+23877 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 40 Новотушинский', ip='10.0.40.41/apteka'}]
+24018 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+24020 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 41 Профсоюзная', ip='10.0.41.41/apteka'}]
+24100 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+24101 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 42 Кировоградская', ip='10.0.42.3/apteka'}]
+24152 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+24153 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 44 Зеленоград', ip='10.0.44.41/apteka'}]
+24220 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+24220 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 46 Пионерская 30 ', ip='10.0.46.41/apteka'}]
+24278 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+24279 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 50  МО пр-кт Мира', ip='10.0.50.41/apteka'}]
+24340 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+24340 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 52 Шоссейная 11', ip='10.0.52.41/apteka'}]
+45354 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+45356 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 53 Аргуновская 18', ip='10.0.53.41/apteka'}]
+45421 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+45422 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 55 Ангарская', ip='10.0.55.41/apteka'}]
+45473 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+45473 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 56 Краснопрудная 1', ip='10.0.56.41/apteka'}]
+45527 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+45528 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 58  Дежнева пр-д', ip='10.0.58.41/apteka'}]
+45596 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+45597 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 60 Карачаровская', ip='10.0.60.41/apteka'}]
+45735 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+45736 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 61 Москва Авангардная, 11', ip='10.0.61.41/apteka'}]
+66742 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+66742 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 62 Москва Чертановская 50к2', ip='10.0.62.41/apteka'}]
+66788 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+66789 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 63 Москва Южнобутовская 81', ip='10.0.63.41/apteka'}]
+66830 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+66831 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Бакунинская', ip='10.0.9.3/AptekaBK'}]
+66860 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+66860 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Бирюлевская 37А', ip='10.0.33.41/apteka'}]
+66969 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+66970 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Ботанический', ip='10.0.27.3/apteka'}]
+67036 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67036 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Волжский б-р, 40', ip='10.0.32.3/apteka'}]
+67097 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67098 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Волоцкой пер. 9', ip='10.0.57.41/apteka'}]
+67252 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67253 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Гарибальди', ip='10.0.16.3/apteka16'}]
+67308 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67308 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Каширское шоссе', ip='10.0.30.3/apteka'}]
+67364 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67366 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Керамический', ip='10.0.28.3/apteka'}]
+67414 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67414 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Кожуховская', ip='10.0.36.41/apteka'}]
+67467 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67467 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Ленинградка', ip='10.0.14.3/AptekaLE'}]
+67513 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67513 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Ленинградский 54', ip='10.0.23.3/apteka'}]
+67570 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67570 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Летчика Бабушкина', ip='10.0.26.3/apteka'}]
+67614 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67614 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Мастеркова', ip='10.0.8.3/AptekaMS'}]
+67672 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67673 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Опалиха', ip='10.0.13.3/AptekaOP'}]
+67729 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67729 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Планерная', ip='10.0.6.3/AptekaPL'}]
+67762 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67762 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Пролетарский', ip='10.0.31.3/apteka'}]
+67801 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67802 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Радиальная', ip='10.0.17.3/Apteka17'}]
+67849 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67849 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Раменское', ip='10.0.12.3/AptekaRM'}]
+67919 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67919 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Строгино', ip='10.0.5.3/AptekaST'}]
+67948 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+67949 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Сходненская', ip='10.0.19.3/apteka'}]
+68005 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+68005 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека Уральская', ip='10.0.7.3/AptekaUR'}]
+68062 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+68062 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='МО Аптека Коломна', ip='10.0.22.3/apteka22'}]
+68133 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+68134 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='МО Щелково ст Воронок', ip='10.0.3.3/AptekaSH'}]
+68185 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+68186 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Москва Генерала Кузнецова', ip='10.0.15.3/apteka15'}]
+68233 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+68235 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Тверь Калинина,14', ip='10.0.4.6:8080/apteka4'}]
+68300 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+68300 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Центральная База', ip='dionysus/plutus'}]
+68354 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+68354 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Шаблон аптеки', ip='s9/ap-template'}]
+69470 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
+69471 [main] INFO  ru.stqa.pft.web.tests.TestBase - Start test getVersionTestData with parameters [PharmacyData{Pharmacy='Аптека 88 МО, с.Ангелово, ул.Центральная, д.64', ip='10.0.88.41/apteka'}]
+69612 [main] INFO  ru.stqa.pft.web.tests.TestBase - Stop test getVersionTestData
