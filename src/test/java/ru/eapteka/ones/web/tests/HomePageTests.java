@@ -1,11 +1,11 @@
-package ru.stqa.pft.web.tests;
+package ru.eapteka.ones.web.tests;
 
 import com.google.common.reflect.TypeToken;
 import com.google.gson.Gson;
 import org.openqa.selenium.By;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import ru.stqa.pft.web.model.PageData;
+import ru.eapteka.ones.web.model.PageData;
 
 import java.io.BufferedReader;
 import java.io.File;

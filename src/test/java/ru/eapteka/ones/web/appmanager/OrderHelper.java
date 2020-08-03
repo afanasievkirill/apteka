@@ -1,9 +1,9 @@
-package ru.stqa.pft.web.appmanager;
+package ru.eapteka.ones.web.appmanager;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import ru.stqa.pft.web.model.ItemData;
-import ru.stqa.pft.web.model.OrderData;
+import ru.eapteka.ones.web.model.ItemData;
+import ru.eapteka.ones.web.model.OrderData;
 
 public class OrderHelper extends HelperBase {
 

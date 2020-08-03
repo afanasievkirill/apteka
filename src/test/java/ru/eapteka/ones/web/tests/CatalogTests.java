@@ -1,8 +1,8 @@
-package ru.stqa.pft.web.tests;
+package ru.eapteka.ones.web.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import ru.stqa.pft.web.model.ItemData;
+import ru.eapteka.ones.web.model.ItemData;
 
 public class CatalogTests extends TestBase {
 

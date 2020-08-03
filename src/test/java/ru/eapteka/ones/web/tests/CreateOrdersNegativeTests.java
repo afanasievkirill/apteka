@@ -1,8 +1,8 @@
-package ru.stqa.pft.web.tests;
+package ru.eapteka.ones.web.tests;
 
 import org.testng.annotations.Test;
-import ru.stqa.pft.web.model.ItemData;
-import ru.stqa.pft.web.model.OrderData;
+import ru.eapteka.ones.web.model.ItemData;
+import ru.eapteka.ones.web.model.OrderData;
 
 public class CreateOrdersNegativeTests extends TestBase {
 

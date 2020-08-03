@@ -1,10 +1,10 @@
-package ru.stqa.pft.web.appmanager;
+package ru.eapteka.ones.web.appmanager;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-import ru.stqa.pft.web.model.PageData;
+import ru.eapteka.ones.web.model.PageData;
 
 import java.util.List;
 

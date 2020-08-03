@@ -1,4 +1,4 @@
-package ru.stqa.pft.web.model;
+package ru.eapteka.ones.web.model;
 
 public class ItemData {
     private final String item;

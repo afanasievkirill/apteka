@@ -1,4 +1,4 @@
-package ru.stqa.pft.web.tests;
+package ru.eapteka.ones.web.tests;
 
 import org.testng.annotations.Test;
 
