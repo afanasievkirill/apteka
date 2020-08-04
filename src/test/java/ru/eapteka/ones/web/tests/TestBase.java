@@ -1,9 +1,9 @@
-package ru.stqa.pft.web.tests;
+package ru.eapteka.ones.web.tests;
 
 import org.openqa.selenium.remote.BrowserType;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import ru.stqa.pft.web.appmanager.ApplicationManager;
+import ru.eapteka.ones.web.appmanager.ApplicationManager;
 
 
 public class TestBase {

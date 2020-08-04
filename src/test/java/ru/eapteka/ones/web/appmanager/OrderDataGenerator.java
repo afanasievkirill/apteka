@@ -1,6 +1,6 @@
-package ru.stqa.pft.web.appmanager;
+package ru.eapteka.ones.web.appmanager;
 
-import ru.stqa.pft.web.model.OrderData;
+import ru.eapteka.ones.web.model.OrderData;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

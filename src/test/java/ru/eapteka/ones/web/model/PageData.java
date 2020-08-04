@@ -1,4 +1,4 @@
-package ru.stqa.pft.web.model;
+package ru.eapteka.ones.web.model;
 
 import com.google.gson.annotations.Expose;
 import org.openqa.selenium.By;

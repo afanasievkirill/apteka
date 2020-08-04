@@ -1,4 +1,4 @@
-package ru.stqa.pft.web.model;
+package ru.eapteka.ones.web.model;
 
 import com.google.common.collect.ForwardingSet;
 

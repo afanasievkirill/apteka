@@ -1,4 +1,4 @@
-package ru.stqa.pft.web.appmanager;
+package ru.eapteka.ones.web.appmanager;
 
 public class test {
     public static void main(String[] args) throws InterruptedException {

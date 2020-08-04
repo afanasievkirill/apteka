@@ -1,4 +1,4 @@
-package ru.stqa.pft.web.appmanager;
+package ru.eapteka.ones.web.appmanager;
 
 
 import org.openqa.selenium.By;
